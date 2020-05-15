@@ -7,7 +7,7 @@ As a user of our system, I want to replace our traditional message broker with K
 * Kafka
 * Kubernetes 
 * Kustomize 
-* Jenkins for Deployment (Assuming both an Int and Prod Environment with a Manual Gate for now)
+* Jenkins for Deployment
 
 ## Acceptance Criteria
 
